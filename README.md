@@ -16,13 +16,13 @@ INSTALL NEAR CLI first like this: </br>
 <h2>Creata new Rock Paper Scissors Game </h2>
 </br>
 <h3> Create Game </h3>
-near call <contract-id> createGame --account_id <account-id> --amount 1
+near call "contract-id" createGame --account_id "account-id --amount 1
   </br>
 <h3>Player 2 Join Game </h3> </br>
-near call <contract-id> joinGame '{"gameId": "<game-id>"}' --account_id <account-id> --amount 1
+near call <contract-id> joinGame '{"gameId": "game-id"}' --account_id "account-id" --amount 1
   </br>
 <h3>Playing Game  </h3> </br>
-near call <contract-id> play '{"gameId": "<game-id>", "selectedItem": "<selectedItem>"}' --account_id <account-id> --amount 1
+near call <contract-id> play '{"gameId": "game-id", "selectedItem": "selectedItem"}' --account_id <account-id> --amount 1
   <hr>
   
   There is 1 AssemblyScript contracts in this project:
