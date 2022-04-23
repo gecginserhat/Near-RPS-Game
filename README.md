@@ -1,6 +1,6 @@
 # Near-RPS-Game
 <h1>Rock Paper Scissors on Near </h1> </br>
-Hi everyone,
+Hi everyone, </br>
 2 player enter the game. They deposit money at the start of game. Whoever wins after making their guesses, the prizes goes to them.
 </br>
 <hr>
