@@ -11,7 +11,8 @@ INSTALL NEAR CLI first like this: </br>
 5) near dev-deploy ./build/release/simple.wasm </br>
 <hr>
 
-Creata new Rock Paper Scissors Game </br>
+<h2>Creata new Rock Paper Scissors Game </h2>
+</br>
 near call <contract-id> createGame --account_id <account-id> --amount 1
   
 Player 2 Join Game  </br>
