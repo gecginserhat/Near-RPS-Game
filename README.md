@@ -1,5 +1,5 @@
 # Near-RPS-Game
-Rock Paper Scissors on Near 
+<h1>Rock Paper Scissors on Near </h1>
 <hr>
 İnstall
 yarn
