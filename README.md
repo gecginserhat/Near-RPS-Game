@@ -30,7 +30,8 @@ near call <contract-id> play '{"gameId": "game-id", "selectedItem": "selectedIte
   <li>simple in the src/simple folder</li>
   </br>
   </br>
-![son test](https://user-images.githubusercontent.com/74310970/164916825-c2e3c09e-c2e9-41ce-b56c-ca4f78d0208c.png)
+Inline-style: 
+![alt text](https://user-images.githubusercontent.com/74310970/164916825-c2e3c09e-c2e9-41ce-b56c-ca4f78d0208c.png)
 
 </br>
   
