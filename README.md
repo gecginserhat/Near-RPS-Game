@@ -1,6 +1,7 @@
 # Near-RPS-Game
 <h1>Rock Paper Scissors on Near </h1>
-Hi everyone
+Hi everyone,
+
 <hr>
 <h2>Getting started</h2>
 INSTALL NEAR CLI first like this: </br>
