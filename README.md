@@ -26,6 +26,8 @@ near call <contract-id> play '{"gameId": "<game-id>", "selectedItem": "<selected
   There is 1 AssemblyScript contracts in this project:
 
   <li>simple in the src/simple folder</li>
+  </br>
+  </br>
   
   https://www.loom.com/share/f1d23b8fbc9d4838a55c2472ac4741ce
 
